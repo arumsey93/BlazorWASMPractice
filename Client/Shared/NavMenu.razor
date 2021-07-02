@@ -1,0 +1,26 @@
+﻿<MudAppBar Color="Color.Primary" Fixed="false">
+    <MudText Typo="Typo.h4" class="px-4">Blazor SignalR</MudText>
+    <MudSpacer />
+    <MudButtonGroup Color="Color.Primary" Variant="Variant.Text">
+        <NavLink class="nav-link" href="counter" Color="Color.Default">
+            <MudIcon Icon="@Icons.Material.Filled.PlusOne" Title="Counter" Color="Color.Default" />
+        </NavLink>
+        <NavLink class="nav-link" href="" Match="NavLinkMatch.All" Color="Color.Default">
+            <MudIcon Icon="@Icons.Material.Filled.Message" Title="Counter" Color="Color.Default" />
+        </NavLink>
+        <NavLink class="nav-link" href="fetchdata" Color="Color.Default">
+            <MudIcon Icon="@Icons.Material.Filled.List" Title="Counter" Color="Color.Default" />
+        </NavLink>
+    </MudButtonGroup>
+</MudAppBar>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

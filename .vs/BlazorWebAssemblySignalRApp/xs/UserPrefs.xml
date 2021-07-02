@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{81DB3555-33A8-46F7-9B49-0A1D4E2567BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Shared/NavMenu.razor">
+    <Files>
+      <File FileName="Client/_Imports.razor" Line="11" Column="17" />
+      <File FileName="Client/Shared/MainLayout.razor" Line="8" Column="27" />
+      <File FileName="Client/Shared/NavMenu.razor" Line="11" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorWebAssemblySignalRApp" expanded="True">
+            <Node name="BlazorWebAssemblySignalRApp.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" selected="True" />
+              </Node>
+            </Node>
+            <Node name="BlazorWebAssemblySignalRApp.Server" expanded="True">
+              <Node name="Hubs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlazorWebAssemblySignalRApp.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,12 @@
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.deps.json
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.dll
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/ref/BlazorWebAssemblySignalRApp.Shared.dll
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/bin/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.pdb
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.csproj.AssemblyReference.cache
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.AssemblyInfoInputs.cache
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.AssemblyInfo.cs
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.csproj.CoreCompileInputs.cache
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.dll
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/ref/BlazorWebAssemblySignalRApp.Shared.dll
+/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Shared/obj/Debug/net5.0/BlazorWebAssemblySignalRApp.Shared.pdb
