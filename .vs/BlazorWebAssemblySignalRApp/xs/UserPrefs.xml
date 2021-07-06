@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Client/_Imports.razor" Line="11" Column="17" />
       <File FileName="Client/Shared/MainLayout.razor" Line="8" Column="27" />
-      <File FileName="Client/Shared/NavMenu.razor" Line="11" Column="51" />
+      <File FileName="Client/Shared/NavMenu.razor" Line="15" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

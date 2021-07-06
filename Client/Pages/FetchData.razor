@@ -2,9 +2,9 @@
 @using BlazorWebAssemblySignalRApp.Shared
 @inject HttpClient Http
 
-<h1>Weather forecast</h1>
+<MudText Typo="Typo.h1">Weather forecast</MudText>
 
-<p>This component demonstrates fetching data from the server.</p>
+<MudText Typo="Typo.body2">This component demonstrates fetching data from the server.</MudText>
 
 @if (forecasts == null)
 {
@@ -12,7 +12,7 @@
 }
 else
 {
-    <table class="table">
+    <MudSimpleTable Style="overflow-x: auto;">
         <thead>
             <tr>
                 <th>Date</th>
@@ -32,7 +32,7 @@ else
                 </tr>
             }
         </tbody>
-    </table>
+    </MudSimpleTable>
 }
 
 @code {

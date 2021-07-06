@@ -100,11 +100,11 @@ using MudBlazor;
 #nullable restore
 #line 9 "/Users/alexrumsey/workspace/BlazorWebAssemblySignalRApp/Client/Pages/Counter.razor"
        
-    private int currentCount = 0;
+    private int _currentCount = 0;
 
     private void IncrementCount()
     {
-        currentCount++;
+        _currentCount++;
     }
 
 #line default

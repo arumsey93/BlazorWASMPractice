@@ -1,16 +1,16 @@
 @page "/counter"
 
-<h1>Counter</h1>
+<MudText Typo="Typo.h1">Counter</MudText>
 
-<p>Current count: @currentCount</p>
+<MudText Typo="Typo.body2">Current count: @_currentCount</MudText>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<MudButton Variant="Variant.Filled" OnClick="IncrementCount" Color="Color.Primary"><MudText Typo="Typo.button">Click me</MudText></MudButton>
 
 @code {
-    private int currentCount = 0;
+    private int _currentCount = 0;
 
     private void IncrementCount()
     {
-        currentCount++;
+        _currentCount++;
     }
 }
