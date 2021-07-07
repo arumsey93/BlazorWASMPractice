@@ -205,12 +205,12 @@
       "netstandard.dll": "sha256-5RchH5B6Yr3NhmDDCRemdr7RcRf4uoztuBOHhAnfYFI=",
       "System.Private.CoreLib.dll": "sha256-pKBnu1J3jSDAahjhvnU6QlCWaqhILfPfTxvPHPrj754=",
       "BlazorWebAssemblySignalRApp.Shared.dll": "sha256-xvcV4K61mSgy1z3edClcuugB4hC22D+U62IdB9jZoRo=",
-      "BlazorWebAssemblySignalRApp.Client.dll": "sha256-SussEAnyu02RGyHgGStAaXB\/3YRXAYDm4VOQya3JAkw="
+      "BlazorWebAssemblySignalRApp.Client.dll": "sha256-9AlIDj2Ytn83obYh9OeKlWUTgEqXUl6QE9MRXITs4ow="
     },
     "lazyAssembly": null,
     "pdb": {
       "BlazorWebAssemblySignalRApp.Shared.pdb": "sha256-TmxG\/+L6CdSxVA6x0ENFiLOxKtnLl2lu8n\/JrVwdY20=",
-      "BlazorWebAssemblySignalRApp.Client.pdb": "sha256-r3VQQ7ycMYbQD9oitMcELeIwrA6qS2eGLtGZ8TESgKc="
+      "BlazorWebAssemblySignalRApp.Client.pdb": "sha256-vojxkEk1sOoIotezI+BaZZBSQrgkj3xqiFGKqRtVT6E="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-6gpSboPIzpxslj3G69YAnbCNj40a6VNSTGz1e+LH00M=",
